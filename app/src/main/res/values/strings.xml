@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Kuis BIPA Indonesia</string>
+    <string name="button">Button</string>
+    <string name="daftar_makanan">Daftar Makanan</string>
+    <string name="kuis_essay">Kuis Essay</string>
+    <string name="kuis_pilihan_ganda">Kuis Pilihan Ganda</string>
+    <string name="sate_ayam">Sate Ayam</string>
+    <string name="mulai">Mulai</string>
+    <string name="skor">SKOR :</string>
+    <string name="_0">0</string>
+    <string name="next">Next ></string>
+    <string name="kuis_sambung_kata">Kuis Sambung Kata</string>
+    <string name="sate">Sate</string>
+    <string name="satay">(satay)</string>
+    <string name="sbvidbvfnvokvdnosbfvisbfvibsvdibsfivujbfvuisbvs">sbvidbvfnvokvdnosbfvisbfvibsvdibsfivujbfvuisbvs</string>
+    <string name="sumber_co_id">Sumber.co.id</string>
+
+
+    <string-array name="data_nama">
+        <item>Bakso</item>
+        <item>Gado-gado</item>
+        <item>Pecel</item>
+        <item>Rendang</item>
+        <item>Satay</item>
+        <item>Soto</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item> Makanan yang terbuat dari daging sapi. Rasanya asin dan pedas. Bakso biasanya lebih enak dimakan saat musim hujan.</item>
+        <item> Makanan yang terbuat dari campuran sayuran dan saos kacang. Rasanya manis, pedas dan asin. Biasanya dimakan pada pagi hari.</item>
+        <item> Makanan yang terbuat dari campuran sayuran. Rasanya pedas, asin dan enak. Pecel adalah makanan tradisional dari Madiun.</item>
+        <item> Makanan yang terbuat dari daging sapi.Rasa daging rendang itu pedas dan asin. Rendang adalah makanan tradisional dari Sumatra Barat.</item>
+        <item> Makanan yang terbuat dari daging ayam. Rasanya manis dan pedas. Satai ayam ini makanan tradisional dari Ponorogo.</item>
+        <item> Makanan yang terbuat dari campuran sayuran dan daging rasanya asin, asam dan pedas. Soto ini seperti sop, enak sekali rasanya. Setiap daerah mempunyai soto dengan nama daerah masing-masing.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/bakso</item>
+        <item>@drawable/gadogado</item>
+        <item>@drawable/pecel</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/soto</item>
+
+    </array>
+
+    <array name="data_namaBing">
+        <item>(meatballs)</item>
+        <item>(mixed vegetables with the peanut sauce)</item>
+        <item>(pecel)</item>
+        <item>(rendang)</item>
+        <item>(satay)</item>
+        <item>(soto)</item>
+
+    </array>
+
+    <array name="data_sumber">
+        <item> https://cdns.klimg.com/merdeka.com/i/w/news/2018/08/10/1001464/670x335/cara-membuat-bakso-enak-dan-kenyal-di-rumah-ini-cara-membuat-kuahnya.jpg </item>
+        <item> https://cdn2.tstatic.net/batam/foto/bank/images/gado-gado_20170718_113047.jpg </item>
+        <item> http://raw.cdn.baca.co.id/6f7d01c9-0eab-489f-a5bc-550fa0ff4e57 </item>
+        <item> https://i0.wp.com/travistory.com/wp-content/uploads/2017/06/resep-rendang.jpg?resize=750%2C478&amp;ssl=1 </item>
+        <item> http://www.dapurkobe.co.id/wp-content/uploads/sate-ayam.jpg </item>
+        <item> http://www.dapurkobe.co.id/wp-content/uploads/soto-ayam-panggang.jpg </item>
+    </array>
+
+</resources>

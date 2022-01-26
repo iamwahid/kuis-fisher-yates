@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="ukuran_gambar">200dp</dimen>
+    <dimen name="gambar_horizontal">165dp</dimen>
+    <dimen name="gambar_vertical">155dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#893991</color>
+    <color name="colorPrimaryDark">#572459</color>
+    <color name="background_kuis">#723079</color>
+    <color name="colorAccent">#000000</color>
+    <color name="bg_jawaban">#B18037</color>
+    <color name="bg_button">#B18037</color>
+    <color name="white">#FFFFFF</color>
+    <color name="kuning">#ffba00</color>
+</resources>
